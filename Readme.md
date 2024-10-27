@@ -2,9 +2,9 @@
  * @Author: Jchen
  * @Date: 2024-10-27 16:36:32
  * @LastEditors: Jchen
- * @LastEditTime: 2024-10-27 17:58:07
+ * @LastEditTime: 2024-10-27 18:51:54
  * @Description: 
- * @FilePath: \DesktopAlarmClock\Readme.md
+ * @FilePath: \DesktopAlarmClockd:\Embedded\Git\DesktopAlarmClock\Readme.md
 -->
 #       * 照烧鸡腿饭 开发的 单片机桌面闹钟项目 *
 #       * stm32 - FreeRTOS *
@@ -76,7 +76,7 @@
         A              PB12
         B              PB13
     无源蜂鸣器I\O       PA8
-    RGBLED             PA11
+    DHT11              PA11
     LED                PC13( STM32板上有个连接PC的LED灯，所以不用外接 )
 
 
