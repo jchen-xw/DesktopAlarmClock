@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "cmsis_os.h": "c",
+        "homepage.h": "c",
+        "task.h": "c",
+        "freertos.h": "c",
+        "semphr.h": "c",
+        "time.h": "c",
+        "driver_dht11.h": "c",
+        "event_groups.h": "c",
+        "driver_timer.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "stm32f1xx_hal_conf.h": "c",
+        "stm32f1xx_hal_adc.h": "c",
+        "tim.h": "c",
+        "driver_key.h": "c",
+        "driver_passive_buzzer.h": "c",
+        "timerpage.h": "c",
+        "starwar.h": "c",
+        "oled.h": "c",
+        "timepage.h": "c",
+        "alarmpage.h": "c",
+        "music.h": "c",
+        "menupage.h": "c",
+        "dinogame.h": "c",
+        "usart.h": "c",
+        "driver_led.h": "c"
+    }
+}
